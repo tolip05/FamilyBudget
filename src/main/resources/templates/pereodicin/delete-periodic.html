@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <th:block th:include="~{fragments/head}"></th:block>
+<body>
+<header>
+    <th:block th:include="~{fragments/navbar}"></th:block>
+</header>
+<main class="mt-3">
+    <h1 class="text-center text-dark">Delete Periodic income</h1>
+    <hr class="hr-2 bg-dark w-25">
+    <form id="add-product-form" class="form w-25 mx-auto" th:action="@{/pereodicinc/delete/{id}(id=${pereodicincId})}" method="post" enctype="multipart/form-data"><input type="hidden" name="_csrf" value="c686cd14-a7f9-4216-8009-c093b7d3df86">
+        <div class="form-group">
+            <label for="add-profit-name" class="font-weight-bold">Name</label>
+            <input type="text" class="form-control text-center" id="add-profit-name" name="name" th:value="${pereodicinc.name}" disabled>
+        </div>
+        <div class="form-group">
+            <label for="add-profit-value" class="font-weight-bold">Value</label>
+            <input type="number" step="any" class="form-control text-center" id="add-profit-value" name="value" th:value="${pereodicinc.value}" disabled="">
+        </div>
+        <div class="form-group">
+            <label for="add-day-value" class="font-weight-bold">Day</label>
+            <input type="number" step="any" class="form-control text-center" id="add-day-value" name="value" th:value="${pereodicinc.day}" disabled="">
+        </div>
+        <hr class="hr-2 bg-dark w-25">
+        <div class="button-holder d-flex justify-content-center">
+            <button type="submit" class="btn btn-danger">Delete Pereodic income</button>
+        </div>
+    </form>
+</main>
+<footer>
+    <th:block th:include="~{fragments/footer}"></th:block>
+</footer>
+</body>
+</html>

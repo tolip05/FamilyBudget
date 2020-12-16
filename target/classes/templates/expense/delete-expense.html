@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <th:block th:include="~{fragments/head}"></th:block>
+<body>
+<header>
+    <th:block th:include="~{fragments/navbar}"></th:block>
+</header>
+<main class="mt-3">
+    <h1 class="text-center text-dark">Delete Expense</h1>
+    <hr class="hr-2 bg-dark w-25">
+    <form id="add-product-form" class="form w-25 mx-auto" th:action="@{/expenses/delete/{id}(id=${expenseId})}" method="post" enctype="multipart/form-data"><input type="hidden" name="_csrf" value="c686cd14-a7f9-4216-8009-c093b7d3df86">
+        <div class="form-group">
+            <label for="add-expense-name" class="font-weight-bold">Name</label>
+            <input type="text" class="form-control text-center" id="add-expense-name" name="name" th:value="${expense.name}" disabled>
+        </div>
+        <div class="form-group">
+            <label for="add-expense-value" class="font-weight-bold">Value</label>
+            <input type="number" step="any" class="form-control text-center" id="add-expense-value" name="value" th:value="${expense.value}" disabled="">
+        </div>
+
+        <hr class="hr-2 bg-dark w-25">
+        <div class="button-holder d-flex justify-content-center">
+            <button type="submit" class="btn btn-danger">Delete Expense</button>
+        </div>
+    </form>
+</main>
+<footer>
+    <th:block th:include="~{fragments/footer}"></th:block>
+</footer>
+</body>
+</html>
