@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ed88810-8a46-469a-b386-4bf4a31202c5" name="Default Changelist" comment="" />
+    <list default="true" id="0ed88810-8a46-469a-b386-4bf4a31202c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/expense/all-expenses.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/expense/all-expenses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pereodcos/all-periodcosts.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/pereodcos/all-periodcosts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/pereodicin/all-periodic.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/pereodicin/all-periodic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/profit/all-profits.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/profit/all-profits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/budget/service/PereodicIncomeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/budget/service/PereodicIncomeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/expense/all-expenses.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/expense/all-expenses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/pereodcos/all-periodcosts.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/pereodcos/all-periodcosts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/pereodicin/all-periodic.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/pereodicin/all-periodic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/profit/all-profits.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/profit/all-profits.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,22 +61,23 @@
     <session id="1363366734">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="SCHEMA:budget_db" value="2" />
+          <entry key="SCHEMA:budget_db" value="4" />
           <entry key="class" value="2" />
-          <entry key="html" value="47" />
-          <entry key="java" value="164" />
-          <entry key="properties" value="5" />
+          <entry key="html" value="59" />
+          <entry key="java" value="218" />
+          <entry key="properties" value="6" />
           <entry key="sql" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -67,26 +85,26 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="HTML" value="47" />
-          <entry key="JAVA" value="164" />
-          <entry key="Properties" value="5" />
+          <entry key="HTML" value="59" />
+          <entry key="JAVA" value="218" />
+          <entry key="Properties" value="6" />
           <entry key="Scratch" value="1" />
-          <entry key="UML" value="2" />
+          <entry key="UML" value="4" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="html" value="1246" />
-          <entry key="java" value="7090" />
+          <entry key="html" value="1374" />
+          <entry key="java" value="7091" />
           <entry key="properties" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1246" />
-          <entry key="JAVA" value="7090" />
+          <entry key="HTML" value="1374" />
+          <entry key="JAVA" value="7091" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="Properties" value="11" />
         </counts>
@@ -95,20 +113,146 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeServiceImpl.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/ExpenseBindingModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="34" />
+            <state relative-caret-position="243">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicCostServiceImpl.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/PereodicCostViewModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+            <state relative-caret-position="216">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/PereodicIncomeViewModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/ProfitViewModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/PereodicCostBindingModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/PereodicIncomeBindingModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#596#597#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/ProfitBindingModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/UserEditBindingModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/UserRegisterBindingModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/Expense.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-251">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -124,15 +268,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/Expense.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/ExponseController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/expense/add-expense.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/ExpenseBindingModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/ExpenseViewModel.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/expense/all-expenses.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/expense/edit-expense.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/expense/delete-expense.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/ProfitBindingModel.java" />
@@ -140,7 +285,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/ProfitViewModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/ExpenseController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/profit/add-profit.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/profit/all-profits.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/profit/edit-profit.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/profit/delete-profit.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/ProfitController.java" />
@@ -155,7 +299,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/PereodicCostController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/pereodicin/add-pereodicin.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/pereodicin/delete-periodic.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/pereodicin/all-periodic.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/PereodicIncomeViewModel.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/PeriodicIncomeController.java" />
@@ -168,16 +311,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/PereodicCostBindingModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/pereodcos/edit-periodicost.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/home.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/navbar.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/repository/PereodicCostRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/service/ExpenseServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/repository/PereodicIncomeRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/BudgetApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/PeriodicCostController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicCostServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/navbar.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/pereodcos/all-periodcosts.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/profit/all-profits.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/expense/all-expenses.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/pereodicin/all-periodic.html" />
       </list>
     </option>
   </component>
@@ -211,13 +358,12 @@
     <option name="width" value="1752" />
     <option name="height" value="969" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,6 +415,17 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="budget" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="budget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budget" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="budget" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="budget" type="b2602c69:ProjectViewProjectNode" />
@@ -387,6 +544,18 @@
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="budget" type="462c0819:PsiDirectoryNode" />
               <item name="validation" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="budget" type="b2602c69:ProjectViewProjectNode" />
+              <item name="budget" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="budget" type="462c0819:PsiDirectoryNode" />
+              <item name="validation" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -484,7 +653,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -495,17 +666,17 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608148523194" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608235149592" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AAA\fit\budget\src\main\resources\templates" />
       <recent name="D:\AAA\fit\budget\src\main\resources\templates\pereodcos" />
       <recent name="D:\AAA\fit\budget\src\main\resources\templates\pereodicin" />
       <recent name="D:\AAA\fit\budget\src\main\resources\templates\profit" />
       <recent name="D:\AAA\fit\budget\src\main\resources\templates\expense" />
-      <recent name="D:\AAA\fit\budget\src\main\resources\templates\exponse" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -547,18 +718,19 @@
       <workItem from="1607971272935" duration="9216000" />
       <workItem from="1608025300314" duration="12599000" />
       <workItem from="1608044777891" duration="14727000" />
-      <workItem from="1608116820231" duration="21122000" />
+      <workItem from="1608116820231" duration="21809000" />
+      <workItem from="1608194400981" duration="12242000" />
+      <workItem from="1608276933873" duration="1342000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103993000" />
+    <option name="totallyTimeSpent" value="118264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05910931" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23238866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -568,7 +740,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.64234877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20996441" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6370107" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -602,303 +774,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/ExpenseBindingModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/ProfitViewModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/ProfitBindingModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/profit/all-profits.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="31" column="66" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/profit/delete-profit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="12" column="103" selection-start-line="12" selection-start-column="103" selection-end-line="12" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/profit/edit-profit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="29" column="69" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/ExpenseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="93" column="37" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1443#1444#0" expanded="true" />
-            <element signature="e#1499#1500#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/repository/ExpenseRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/repository/ProfitRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/ExpenseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/ProfitService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicCostService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="88" selection-start-line="10" selection-start-column="88" selection-end-line="10" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/service/PereodicCostServiceModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/PereodicCost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/ProfitController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-148">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1717#1718#0" expanded="true" />
-            <element signature="e#1771#1772#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodicin/add-pereodicin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/PereodicIncomeBindingModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="110" selection-start-line="3" selection-start-column="110" selection-end-line="3" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/expense/edit-expense.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="24" column="98" selection-start-line="24" selection-start-column="98" selection-end-line="24" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/ExpenseViewModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="9" column="31" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/service/PereodicIncomeServiceModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/PereodicIncomeViewModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/PereodicIncome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodicin/delete-periodic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="12" column="114" selection-start-line="12" selection-start-column="114" selection-end-line="12" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/PeriodicIncomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="98" column="53" selection-start-line="98" selection-start-column="53" selection-end-line="98" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/Profit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodcos/delete-periodicost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="12" column="82" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodcos/add-periodcos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodcos/all-periodcosts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/PereodicCostViewModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/ProfitServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1171">
-          <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/PereodicCostBindingModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodicin/edit-periodic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodicin/all-periodic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -914,105 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://DATABASE/3ca084ad-f28b-450f-b377-86bbe7824e6a.SCHEMA:budget_db">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>3ca084ad-f28b-450f-b377-86bbe7824e6a.SCHEMA:budget_db</OriginalElement>
-          <nodes>
-            <node x="690.0" y="179.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.pereodic_co</node>
-            <node x="0.0" y="179.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.pereodic_in</node>
-            <node x="135.51742160278744" y="557.0383275261323">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.persons</node>
-            <node x="935.0" y="212.5">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.users_roles</node>
-            <node x="968.25" y="22.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.roles</node>
-            <node x="245.0" y="168.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.expenses</node>
-            <node x="483.5" y="0.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user</node>
-            <node x="472.0" y="168.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.profits</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.profits" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
-              <point x="0.0" y="-81.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.pereodic_co" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
-              <point x="0.0" y="-70.0" />
-              <point x="802.5" y="148.0" />
-              <point x="606.0" y="148.0" />
-              <point x="35.0" y="59.0" />
-            </edge>
-            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.expenses" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
-              <point x="0.0" y="-81.0" />
-              <point x="348.5" y="148.0" />
-              <point x="536.0" y="148.0" />
-              <point x="-35.0" y="59.0" />
-            </edge>
-            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.pereodic_in" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
-              <point x="0.0" y="-70.0" />
-              <point x="112.5" y="138.0" />
-              <point x="501.0" y="138.0" />
-              <point x="-70.0" y="59.0" />
-            </edge>
-            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.users_roles" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
-              <point x="-39.75" y="-36.5" />
-              <point x="974.75" y="138.0" />
-              <point x="641.0" y="138.0" />
-              <point x="70.0" y="59.0" />
-            </edge>
-            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.users_roles" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.roles">
-              <point x="39.75" y="-36.5" />
-              <point x="0.0" y="37.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.7944013781223083" x="282.11427951859486" y="220.11427951859486" />
-          <SelectedNodes>
-            <node>3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.persons</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/service/ExpenseServiceModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/ExpenseServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/repository/PereodicCostRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/repository/PereodicIncomeRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1024,20 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1060,17 +826,436 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/ExpenseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="88" column="38" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="39" column="80" selection-start-line="39" selection-start-column="80" selection-end-line="39" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/error.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/config/ApplicationBeanConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/config/ApplicationSecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-346">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/PereodicCost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/PereodicIncome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/Profit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/service/ExpenseServiceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/service/PereodicCostServiceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/ProfitServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="87" column="46" selection-start-line="87" selection-start-column="46" selection-end-line="87" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicIncomeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="82" column="34" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="34" />
+        <state relative-caret-position="175">
+          <caret line="87" column="36" selection-start-line="87" selection-start-column="36" selection-end-line="87" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/PereodicCostServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="183">
           <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/profit/all-profits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodcos/all-periodcosts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/expense/all-expenses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodicin/all-periodic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/validation/user/UserRegisterValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/service/BaseServiceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/repository/ExpenseRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/repository/PereodicCostRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/service/ExpenseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/web/controllers/ExpenseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1229">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodcos/add-periodcos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/pereodcos/delete-periodicost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="82" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/3ca084ad-f28b-450f-b377-86bbe7824e6a.SCHEMA:budget_db">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>3ca084ad-f28b-450f-b377-86bbe7824e6a.SCHEMA:budget_db</OriginalElement>
+          <nodes>
+            <node x="172.75" y="156.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.pereodic_co</node>
+            <node x="862.75" y="156.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.pereodic_in</node>
+            <node x="125.50621876089737" y="704.1691270487039">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.persons</node>
+            <node x="63.75" y="200.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.users_roles</node>
+            <node x="0.0" y="22.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.roles</node>
+            <node x="433.75" y="0.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user</node>
+            <node x="417.75" y="145.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.expenses</node>
+            <node x="644.75" y="145.0">3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.profits</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.profits" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
+              <point x="0.0" y="-69.5" />
+              <point x="743.75" y="125.0" />
+              <point x="556.25" y="125.0" />
+              <point x="35.0" y="47.5" />
+            </edge>
+            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.pereodic_co" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
+              <point x="0.0" y="-58.5" />
+              <point x="285.25" y="125.0" />
+              <point x="486.25" y="125.0" />
+              <point x="-35.0" y="47.5" />
+            </edge>
+            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.expenses" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
+              <point x="0.0" y="-69.5" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.pereodic_in" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
+              <point x="0.0" y="-58.5" />
+              <point x="975.25" y="115.0" />
+              <point x="591.25" y="115.0" />
+              <point x="70.0" y="47.5" />
+            </edge>
+            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.users_roles" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.user">
+              <point x="22.25" y="-14.5" />
+              <point x="130.5" y="115.0" />
+              <point x="451.25" y="115.0" />
+              <point x="-70.0" y="47.5" />
+            </edge>
+            <edge source="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.users_roles" target="3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.roles">
+              <point x="-22.25" y="-14.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9409991386735572" x="244.0" y="228.0" />
+          <SelectedNodes>
+            <node>3ca084ad-f28b-450f-b377-86bbe7824e6a.TABLE:budget_db.persons</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/ExpenseViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/PereodicCostViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/PereodicIncomeViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/view/ProfitViewModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/PereodicCostBindingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/PereodicIncomeBindingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/ProfitBindingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/UserEditBindingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/UserRegisterBindingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/entities/Expense.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/budget/domein/models/binding/ExpenseBindingModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

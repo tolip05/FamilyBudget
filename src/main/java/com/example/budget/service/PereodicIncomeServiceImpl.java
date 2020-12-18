@@ -85,7 +85,7 @@ public class PereodicIncomeServiceImpl implements PereodicIncomeService {
         Integer day = LocalDateTime.now().getDayOfMonth();
         List<PereodicIncome>pereodicIncomes = this.repository.
                 findAllByDay(day);
-        if (pereodicIncomes.size() != 0){
+        if (pereodicIncomes.size() > 0){
             for (PereodicIncome pereodicIncome : pereodicIncomes) {
                 UserServiceModel userServiceModel =
                         this.userService
